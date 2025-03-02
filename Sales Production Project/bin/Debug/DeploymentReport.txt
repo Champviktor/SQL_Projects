@@ -1,0 +1,53 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Production] (Schema)
+       [Sales] (Schema)
+       [Production].[Brands] (Table)
+       [Production].[Stocks] (Table)
+       [Production].[Products] (Table)
+       [Production].[Categories] (Table)
+       [Sales].[Staff] (Table)
+       [Sales].[Orders] (Table)
+       [Sales].[Order_Items] (Table)
+       [Sales].[Customers] (Table)
+       [Sales].[Stores] (Table)
+       Default Constraint: unnamed constraint on [Sales].[Staff] (Default Constraint)
+       Foreign Key: unnamed constraint on [Production].[Stocks] (Foreign Key)
+       Foreign Key: unnamed constraint on [Production].[Stocks] (Foreign Key)
+       Foreign Key: unnamed constraint on [Production].[Products] (Foreign Key)
+       Foreign Key: unnamed constraint on [Production].[Products] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Staff] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Staff] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Orders] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Orders] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Orders] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Order_Items] (Foreign Key)
+       Foreign Key: unnamed constraint on [Sales].[Order_Items] (Foreign Key)
+       [Production].[Stocks_View] (View)
+       [Production].[Products_View] (View)
+       [Production].[Categories_View] (View)
+       [Production].[Brands_View] (View)
+       [Sales].[Stores_View] (View)
+       [Sales].[Orders_View] (View)
+       [Sales].[Order_Items_View] (View)
+       [Sales].[Staff_View] (View)
+       [Sales].[Customer_View] (View)
+       [Production].[AddStock] (Procedure)
+       [Production].[AddProduct] (Procedure)
+       [Production].[AddCategory] (Procedure)
+       [Production].[AddBrand] (Procedure)
+       [Sales].[AddOrder] (Procedure)
+       [Sales].[AddStore] (Procedure)
+       [Sales].[AddCustomer] (Procedure)
+
+** Supporting actions

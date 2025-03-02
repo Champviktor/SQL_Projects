@@ -1,0 +1,5 @@
+﻿CREATE TABLE Production.Brands
+(
+	BrandID INT PRIMARY KEY IDENTITY(1 , 1),
+	BrandName NVARCHAR(50) NOT NULL
+)

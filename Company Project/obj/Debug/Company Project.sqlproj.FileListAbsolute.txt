@@ -1,0 +1,10 @@
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\bin\Debug\Company Project.dacpac
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\Company Project.sqlproj.AssemblyReference.cache
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\Model.xml
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\refactor.xml
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\postdeploy.sql
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\predeploy.sql
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\Company_Project.dll
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\obj\Debug\Company_Project.pdb
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\bin\Debug\Company_Project.dll
+C:\Users\Champ\OneDrive\Desktop\SQL\COMPANY PROFILE\Company Project\bin\Debug\Company_Project.pdb

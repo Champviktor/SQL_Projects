@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Manager]
+(
+	ManagerID INT NOT NULL PRIMARY KEY IDENTITY(0001,5),
+	ManagerName NVARCHAR(100)
+);
+GO
